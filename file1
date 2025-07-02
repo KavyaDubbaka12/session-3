@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A basic HTML page with heading, paragraph, and link.">
+    <title>Basic HTML Page</title>
+</head>
+<body>
+    <TABLE border="1">
+       <B><caption>MOVIES</caption></B>
+       <thead>
+                    <tr>
+                        <th>MOVIES</th>
+                        <th colspan="2">RATING</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>from</td>
+                        <td>S1:10</td>
+                        <td>S2:10</td>
+                    </tr>
+                    <tr>
+                         <td>hangover</td>
+                         <td>s1:10</td>
+                         <td>S2:10</td>
+                    </tr>
+                    <tr>
+                         <td>money heist</td>
+                          <td>S1:10</td>
+                           <td>S2:10</td>
+                    </tr>
+                    <tr>
+                        <td>friends</td>
+                        <td>S1:10</td>
+                         <td>S2:10</td>
+
+                    </tr>
+                    <tr>
+                        <td>dark</td>
+                        <td>S1:10</td>
+                         <td>S2:10</td>
+                    </tr>
+                    <tr>
+                        <td>breaking bad</td>
+                        <td>S1:10</td>
+                         <td>S2:10</td>
+                    </tr>
+                    <tr>
+                        <td>got</td>
+                        <td>S1:10</td>
+                         <td>S2:10</td>
+                    </tr>
+                    <tr> 
+                        <td>walking dead</td>
+                        <td>S1:10</td>
+                         <td>S2:10</td>
+                    </tr>
+                    <tr>
+                        <td>squid games</td>
+                        <td>S1:7</td>
+                         <td>S2:5</td>
+                    </tr>
+                    </tbody>
+                </TABLE>
+</body>
+</html>
